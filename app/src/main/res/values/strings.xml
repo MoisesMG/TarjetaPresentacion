@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TarjetaPresentacion</string>
+    <string name="nombre">Nombre: Moises Alexander Mena Gonzalez</string>
+    <string name="formacion">Formacion academica: Graduado de secundaria \nActualmente cursando Ingenieria en Sistema de Informacion \n en la Universidad Centroamericana</string>
+    <string name="edad">Edad: 18 años</string>
 </resources>
